@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": ["../../../app/styles.css"],
+  "sourcesContent": ["body {\n    background-image: url('./assets/people.jpg');\n    background-size: cover;\n    background-position: center;\n    background-repeat: no-repeat;\n}\n\n.bg-white {\n    background-color: rgba(255, 255, 255, 0.8); /* A\u00F1adir transparencia si lo deseas */\n}\n"],
+  "mappings": ";AAAA;AACI,oBAAkB;AAClB,mBAAiB;AACjB,uBAAqB;AACrB,qBAAmB;AACvB;AAEA,CAAC;AACG,oBAAkB,KAAK,GAAG,EAAE,GAAG,EAAE,GAAG,EAAE;AAC1C;",
+  "names": []
+}

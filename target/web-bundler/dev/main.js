@@ -1,4 +1,5 @@
 // Auto-generated imports for project sources
-export * from "./app/app";
+import "./app/styles.css";
+import "./app/assets/people.jpg";
 export * from "./live-reload";
 

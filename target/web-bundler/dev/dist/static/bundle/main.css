@@ -1,0 +1,11 @@
+/* app/styles.css */
+body {
+  background-image: url("/static/bundle/assets/people-UYJG76GX.jpg");
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+.bg-white {
+  background-color: rgba(255, 255, 255, 0.8);
+}
+/*# sourceMappingURL=/static/bundle/main.css.map */

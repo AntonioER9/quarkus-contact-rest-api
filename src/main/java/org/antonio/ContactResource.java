@@ -8,7 +8,7 @@ import jakarta.ws.rs.core.Response;
 
 import java.util.List;
 
-@Path("/api/contacts")
+@Path("/api/contact")
 @Produces("application/json")
 @Consumes
 public class ContactResource {
